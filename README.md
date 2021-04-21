@@ -1,5 +1,7 @@
 # SQL-Assessment
 
+//Question 1
+
 CREATE TABLE XXBCM_ORDER_MGT 
    (	
 	ORDER_REF 			VARCHAR(2000), 
